@@ -1,0 +1,21 @@
+html
+{
+	height: 100%;
+	width:100%;
+	
+}
+body
+{
+	background-color: silver;
+    margin-top: 0%; 
+    margin-bottom: 0%; 
+    height: 80%;
+}
+#foot
+{
+	background-color: black;
+	padding-top: 5%;
+	padding-bottom:5%;
+	margin-top: 70%;
+}
+
